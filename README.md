@@ -1,6 +1,5 @@
 # bomb3r 💣
 
-Made with ❤ in IN.
 
 ## For Windows 10/8.x/7
 
